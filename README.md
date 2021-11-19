@@ -5,10 +5,12 @@
   <img  src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg" alt="MIT Licence" />
 </p>
 
+<p align="center">The site does not belong to me. the original programmer is deeppaz. I stole. because I like ready made things more</p>
+
 <p align="center">
-  <img src="https://serenes.vercel.app/logo.png" width="150" />
+  <img src="https://emotional-serenity.vercel.app/logo.png" width="150" />
 </p>
-<h1 align="center">Serenes</h1>
+<h1 align="center">Serenity</h1>
 <p align="center">serenes player for listen to music while working or similar</p>
 
 <p align="center">
@@ -17,7 +19,7 @@
 
 # if you want to see
 
-Enjoy [serenes.vercel.app](https://serenity.vercel.app/)
+Enjoy [serenes.vercel.app](https://emotional-serenity.vercel.app/)
 
 
 # how to clone project
@@ -25,12 +27,12 @@ Enjoy [serenes.vercel.app](https://serenity.vercel.app/)
 
 - Download by ZIP
 
-you can download by [ZIP](https://github.com/deeppaz/serenes/archive/master.zip)
+you can download by [ZIP](https://github.com/hasanfirat/serenity/archive/master.zip)
 
 - or clone this repo
 
 ```
-git clone https://github.com/deeppaz/serenes.git
+git clone https://github.com/hasanfirat/serenes.git
 ```
 ```
 cd serenes
@@ -40,7 +42,7 @@ npm start
 
 # pixelarts
 
-You can find all background gifs [here](https://github.com/deeppaz/serenes/blob/master/src/data/BGif.json). feel free pushing the backgrounds you want to see on the player 
+You can find all background gifs [here](https://github.com/hasanfirat/serenes/blob/master/src/data/BGif.json). feel free pushing the backgrounds you want to see on the player 
 
 <br>
 <br>
@@ -51,7 +53,7 @@ You can find all background gifs [here](https://github.com/deeppaz/serenes/blob/
   Open Source
 </h2>
 
-<p align="center">Serenes <a href="https://github.com/deeppaz/serenes/blob/master/LICENSE">is MIT licensed</a></p>
+<p align="center">Serenes <a href="https://github.com/hasanfirat/serenes/blob/master/LICENSE">is MIT licensed</a></p>
 <p align="center">
   <img src="https://serenes.space/logo.png" width="35" />
 </p>
