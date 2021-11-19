@@ -17,7 +17,7 @@
 
 # if you want to see
 
-Enjoy [serenes.vercel.app](https://serenes.vercel.app/)
+Enjoy [serenes.vercel.app](https://serenity.vercel.app/)
 
 
 # how to clone project
