@@ -5,7 +5,7 @@
   <img  src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg" alt="MIT Licence" />
 </p>
 
-<p align="center">The site does not belong to me. the original programmer is deeppaz. I stole. because I like ready made things more</p>
+<p align="center" style="text:15px bold italic;">The site does not belong to me. the original programmer is deeppaz. I stole. because I like ready made things more</p>
 
 <p align="center">
   <img src="https://emotional-serenity.vercel.app/logo.png" width="150" />
