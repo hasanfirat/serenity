@@ -7,7 +7,7 @@
 
 <h3 align="center">The site does not belong to me. the original programmer is deeppaz. I stole. because I like ready made things more</h3>
 
-- see
+
 [deeppaz](https://github.com/deeppaz)
 
 <p align="center">
