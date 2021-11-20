@@ -6,6 +6,7 @@
 </p>
 
 <h3 align="center">The site does not belong to me. the original programmer is deeppaz. I stole. because I like ready made things more</h3>
+<h3 align="center" href="https://github.com/deeppaz">deeppaz<h3>
 
 <p align="center">
   <img src="https://emotional-serenity.vercel.app/logo.png" width="150" />
