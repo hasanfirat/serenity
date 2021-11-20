@@ -22,7 +22,7 @@
 
 # if you want to see
 
-Enjoy [serenes.vercel.app](https://emotional-serenity.vercel.app/)
+Enjoy [emotional-serenity.vercel.app](https://emotional-serenity.vercel.app/)
 
 
 # how to clone project
@@ -45,7 +45,7 @@ npm start
 
 # pixelarts
 
-You can find all background gifs [here](https://github.com/hasanfirat/serenes/blob/master/src/data/BGif.json). feel free pushing the backgrounds you want to see on the player 
+You can find all background gifs [here](https://github.com/hasanfirat/serenity/blob/master/src/data/BGif.json). feel free pushing the backgrounds you want to see on the player 
 
 <br>
 <br>
